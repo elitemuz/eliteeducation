@@ -1,0 +1,29 @@
+{
+  "name": "eliteeducationpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@material-ui/styles": "^4.11.5",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.4",
+    "body-parser": "^1.20.0",
+    "chalk": "^5.0.1",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "nodemailer": "^6.7.8",
+    "password-validator": "^5.3.0",
+    "react-material-ui-carousel": "^3.4.2",
+    "socket.io": "^4.5.2"
+  }
+}
